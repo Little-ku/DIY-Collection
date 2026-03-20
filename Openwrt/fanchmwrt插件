@@ -11,3 +11,11 @@ CONFIG_PACKAGE_luci-app-fwx-session-stat=y
 CONFIG_PACKAGE_luci-app-fwx-system=y
 CONFIG_PACKAGE_luci-app-fwx-user=y
 CONFIG_PACKAGE_luci-app-fwx-user-record=y
+3. 厂商定制功能（fwx 开头）
+luci-app-fwx-* 系列：是固件厂商定制的功能集合，包含：
+appfilter：应用过滤（管控特定 APP / 网站访问）
+macfilter：MAC 地址过滤（限制指定设备联网）
+dashboard：系统仪表盘（可视化展示网络状态）
+record/user-record：上网记录 / 用户行为记录
+network/system：定制化的网络 / 系统设置
+session-stat：会话统计（监控网络连接会话）
