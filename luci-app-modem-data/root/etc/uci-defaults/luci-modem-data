@@ -1,9 +1,0 @@
-#!/bin/sh
-uci -q batch <<-EOF >/dev/null 2>&1
-	set modemdata.service=service
-	set modemdata.service.fallover=0
-	set modemdata.service.enabled=0
-	set modemdata.service.device='auto'
-	commit modemdata
-EOF
-exit 0
