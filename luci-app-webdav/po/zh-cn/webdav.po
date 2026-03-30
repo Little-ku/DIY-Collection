@@ -1,0 +1,32 @@
+msgid "Webdav"
+msgstr "WebDAV 服务"
+
+msgid "Simple Webdav Server"
+msgstr "轻量级 WebDAV 服务器"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Shared Files Path"
+msgstr "共享目录路径"
+
+msgid "RUNNING"
+msgstr "运行中"
+
+msgid "NOT RUNNING"
+msgstr "未运行"
+
+msgid "Open Webdav Interface"
+msgstr "打开 WebDAV 访问地址"
+
+msgid "Collecting data..."
+msgstr "获取状态中..."
