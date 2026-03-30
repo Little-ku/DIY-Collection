@@ -1,0 +1,26 @@
+msgid "IPv6 Global Settings"
+msgstr "IPv6全局设置"
+
+msgid "One-key Setting IPv6"
+msgstr "一键配置IPv6"
+
+msgid "IPv6 Mode"
+msgstr "IPv6工作模式"
+
+msgid "Disable IPv6 NDP"
+msgstr "禁用IPv6 NDP"
+
+msgid "NDP Native Mode"
+msgstr "NDP原生模式"
+
+msgid "DHCPv6 Relay Mode"
+msgstr "DHCPv6中继模式"
+
+msgid "Upstream WAN6 Zone"
+msgstr "上游WAN6接口"
+
+msgid "Enable IPv6 DNS (AAAA) Lookup"
+msgstr "启用IPv6 DNS(AAAA)解析"
+
+msgid "IPv6 DNS (AAAA)"
+msgstr "IPv6域名解析"
