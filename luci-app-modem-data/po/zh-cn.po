@@ -1,8 +1,8 @@
 msgid "USB Mobile Network Data Setting"
-msgstr "USB移动网络数据设置"
+msgstr "USB 移动网络数据设置"
 
 msgid "Tethering Mobile Network Data with your iPhone/Andriod/USB Mobile Stick like F50 ETC."
-msgstr "通过iPhone/安卓/USB上网卡（如F50等）共享移动网络数据"
+msgstr "通过 iPhone/安卓/USB 上网卡（F50等）共享移动网络"
 
 msgid "Settings"
 msgstr "设置"
@@ -11,13 +11,13 @@ msgid "Enable"
 msgstr "启用"
 
 msgid "Enable IPv6 negotiation"
-msgstr "启用IPv6协商"
+msgstr "启用 IPv6 协商"
 
 msgid "Enable IPv6 Relay"
-msgstr "启用IPv6中继"
+msgstr "启用 IPv6 中继"
 
 msgid "Network Failover"
-msgstr "网络故障转移"
+msgstr "网络故障切换"
 
 msgid "Data Network Interface"
 msgstr "数据网络接口"
@@ -26,10 +26,10 @@ msgid "Auto"
 msgstr "自动"
 
 msgid "TTY USB AT Port"
-msgstr "USB AT串口"
+msgstr "USB AT 串口"
 
 msgid "AT Query Tools"
-msgstr "AT指令工具"
+msgstr "AT 指令工具"
 
 msgid "Default"
 msgstr "默认"
@@ -41,55 +41,34 @@ msgid "Dial Tools"
 msgstr "拨号工具"
 
 msgid "Quectel CM"
-msgstr "移远 Quectel CM"
+msgstr "Quectel CM"
 
 msgid "Fibocom CM"
-msgstr "广和通 Fibocom CM"
+msgstr "Fibocom CM"
 
 msgid "Megei CM"
-msgstr "移芯 Meig CM"
+msgstr "Meig CM"
 
 msgid "AT CMD"
-msgstr "AT指令拨号"
+msgstr "AT 指令"
 
 msgid "Custom Settings"
 msgstr "自定义设置"
 
 msgid "APN"
-msgstr "接入点APN"
+msgstr "APN"
 
 msgid "China Unicom"
 msgstr "中国联通"
-
 msgid "China Mobile"
 msgstr "中国移动"
-
 msgid "China Telecom"
 msgstr "中国电信"
 
 msgid "PAP/CHAP username"
-msgstr "PAP/CHAP 用户名"
-
+msgstr "用户名"
 msgid "PAP/CHAP password"
-msgstr "PAP/CHAP 密码"
+msgstr "密码"
 
 msgid "Authentication Type"
 msgstr "认证类型"
-
-msgid "NONE"
-msgstr "无"
-
-msgid "PAP/CHAP (both)"
-msgstr "PAP/CHAP 自动"
-
-msgid "PAP"
-msgstr "PAP"
-
-msgid "CHAP"
-msgstr "CHAP"
-
-msgid "Modem"
-msgstr "调制解调器"
-
-msgid "USB Mobile Data"
-msgstr "USB移动数据"
