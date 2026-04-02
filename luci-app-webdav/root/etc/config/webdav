@@ -1,6 +1,0 @@
-config webdav 'config'
-        option username 'video'
-        option scope '/mnt/clouddrive/CloudDrive'
-        option enable '0'
-        option password '123456'
-        option port '8000'
