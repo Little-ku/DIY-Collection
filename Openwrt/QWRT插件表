@@ -1,7 +1,4 @@
-# 编译目标（默认 x86_64 通用，需根据设备修改）
-CONFIG_TARGET_x86=y
-CONFIG_TARGET_x86_64=y
-CONFIG_TARGET_x86_64_Generic=y
+
 
 # 核心系统包
 CONFIG_PACKAGE_6in4=y
