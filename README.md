@@ -1,8 +1,5 @@
 
 
-
-## luci更新 [`LuCI`]( https://github.com/Namia-kair/DIY-Collection/blob/main/Openwrt/Update-luci-README.md)
-
 # 📦Linux二款管理脚本合集：
 ## 家用推荐Linux工具箱 [`kejilion`]( https://github.com/kejilion/sh)
 首次运行
