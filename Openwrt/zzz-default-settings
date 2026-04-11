@@ -76,7 +76,7 @@ sed -i 's/admin\/services/admin\/nas/g' /usr/share/luci/menu.d/luci-app-hd_idle.
 sed -i 's/admin\/services/admin\/network/g' /usr/share/luci/menu.d/luci-app-upnp.json
 sed -i 's/admin\/services/admin\/network/g' /usr/share/luci/menu.d/luci-app-ddns.json
 
-# sed -i 's/admin\/services\/nlbw/admin\/nlbw/g' /usr/share/luci/menu.d/luci-app-nlbwmon.json
+sed -i 's/admin\/services\/nlbw/admin\/nlbw/g' /usr/share/luci/menu.d/luci-app-nlbwmon.json
 
 # 替换软件源为腾讯云镜像
 
